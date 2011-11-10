@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  number: 1
+  exp_date: 2011-11-09
+  lot_id: 1
+
+two:
+  number: 1
+  exp_date: 2011-11-09
+  lot_id: 1
